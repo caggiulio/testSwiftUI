@@ -21,7 +21,12 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
         // Use a UIHostingController as window root view controller
         let window = UIWindow(frame: UIScreen.main.bounds)
-        window.rootViewController = UIHostingController(rootView: ContentView())
+        window.rootViewController = UIHostingController(rootView: TestListSwiftUI(clients: Shared.sharedSettings.buildClient()))
+        
+       /* let st = UIStoryboard.init(name: "Storyboard", bundle: nil)
+        let vc = st.instantiateViewController(identifier: "viewController") as! ViewController
+        window.rootViewController = vc*/
+        
         self.window = window
         window.makeKeyAndVisible()
     }

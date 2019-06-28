@@ -1,0 +1,56 @@
+{
+  "clients": [
+    {
+      "id": "59761c23b30d971669fb42ff",
+      "isActive": true,
+      "age": 36,
+      "name": "Dunlap Hubbard",
+      "gender": "male",
+      "company": "CEDWARD",
+      "email": "dunlaphubbard@cedward.com",
+      "phone": "+1 (890) 543-2508",
+      "address": "169 Rutledge Street, Konterra, Northern Mariana Islands, 8551",
+      "isFavorite": true,
+      "image": "ronaldo"
+    },
+    {
+      "id": "59761c233d8d0f92a6b0570d",
+      "isActive": true,
+      "age": 24,
+      "name": "Kirsten Sellers",
+      "gender": "female",
+      "company": "EMERGENT",
+      "email": "kirstensellers@emergent.com",
+      "phone": "+1 (831) 564-2190",
+      "address": "886 Gallatin Place, Fannett, Arkansas, 4656",
+      "isFavorite": false,
+      "image": "ronaldo_1"
+    },
+    {
+        "id": "59761c23fcb6254b1a06dad6",
+        "isActive": true,
+        "age": 27,
+        "name": "Giulio Caggegi",
+        "gender": "male",
+        "company": "Skylabs",
+        "email": "giulio.caggegi@skylabs.it",
+        "phone": "+393278405536",
+        "address": "8 Tezzano, Catania, Italia, 95131",
+        "isFavorite": true,
+        "image": "ronaldo_1"
+    },
+    {
+        "id": "59761c23fcb6254b1a06dad7",
+        "isActive": true,
+        "age": 27,
+        "name": "Giulio Caggegi 1",
+        "gender": "male",
+        "company": "Me",
+        "email": "nunziogiuliocaggeg@gmail.com",
+        "phone": "+393278405536",
+        "address": "105 Umberto, Randazzo, Italia, 95036",
+        "isFavorite": false,
+        "image": "ronaldo"
+    }
+  ]
+}

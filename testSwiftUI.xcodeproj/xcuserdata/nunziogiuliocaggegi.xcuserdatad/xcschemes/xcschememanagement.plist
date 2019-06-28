@@ -7,7 +7,25 @@
 		<key>testSwiftUI.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>4</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>4D63471E22A83AC900A7BBCF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4D63473422A83ACA00A7BBCF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4D63473F22A83ACA00A7BBCF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
